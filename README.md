@@ -1,7 +1,5 @@
+# To-Do-List-Tracker
 https://github.com/nishitasanghavi/To-Do-List-Tracker/assets/160715345/50a2807b-8e13-4d75-80ac-f01d570043ca
-
-
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
